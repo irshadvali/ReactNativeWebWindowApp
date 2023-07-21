@@ -35,3 +35,7 @@ Add File in your project
  ii-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/index.html
  iii-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/webpack.config.js
 5-** npm run web**
+
+****ScreenShot****
+<img width="1433" alt="Screenshot 2023-07-21 at 5 56 40 PM" src="https://github.com/irshadvali/ReactNativeWebWindowApp/assets/9949849/9cbe9348-e28c-4146-88c9-350f1739969d">
+
