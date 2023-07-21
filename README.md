@@ -1,5 +1,5 @@
 **ReactNativeWebWindowApp**\
-1- npx react-native init <ProjectName>\
+1- npx react-native init "ProjectName" \
 2- inside project\
 3-npx react-native-macos-init\
 4- npx react-native-windows-init\
