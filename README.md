@@ -3,7 +3,7 @@
 2- inside project
 3-npx react-native-macos-init
 4- npx react-native-windows-init
-# 5- Now Run Project for ios android, macos and window App
+**5- Now Run Project for ios android, macos and window App**
 for macos: npx react-native run-macos
 for winodws: npx react-native run-windows
 for ios: npx react-native run-ios
@@ -31,6 +31,7 @@ for Android: npx react-native run-android
    "web": "webpack serve --mode=development --config webpack.config.js"
 
 Add File in your project
-1- https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/index.web.js
-2-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/index.html
-3-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/webpack.config.js
+ i- https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/index.web.js
+ ii-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/index.html
+ iii-https://github.com/irshadvali/ReactNativeWebWindowApp/blob/main/webpack.config.js
+5-** npm run web**
